@@ -1,0 +1,5 @@
+archive/
+.conda/
+.venv/
+building
+mall_coordinates.json
