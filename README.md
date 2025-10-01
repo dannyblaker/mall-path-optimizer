@@ -4,6 +4,7 @@ This project generates a virtual mall with multiple floors and shops, then visua
 
 It also calculates an **efficient walking path** to visit all shops, based on a Traveling Salesman Problem (TSP) heuristic.
 
+Note: Wait a few seconds for the demo GIF below to load...  
 ![Demo](mall_demo.gif)
 
 # Features
